@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Tracert Map
 
-![Picture of a Tracert Map](https://github.com/cantanope/TraceMap/Images/MapWithTrace.jpg?raw=true)
+![Picture of a Tracert Map](https://github.com/cantanope/TraceMap/Images/MapWithTrace.jpg)
 
 *Tracert Map* is an educational tool to help visualize the path of packets sent via the internet. It utilises the output of tracert and IP-API to show rough locations for each hop (with a public IP) to a target destination. 
 
