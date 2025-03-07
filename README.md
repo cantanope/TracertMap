@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Tracert Map
 
-![Picture of a Tracert Map](./images/MapWithTrace.jpg "Title")
+![Picture of a Tracert Map](Images/MapWithTrace.jpg)
 
 *Tracert Map* is an educational tool to help visualize the path of packets sent via the internet. It utilises the output of tracert and IP-API to show rough locations for each hop (with a public IP) to a target destination. 
 
@@ -90,7 +90,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the project_license. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
