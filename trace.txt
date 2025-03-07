@@ -10,4 +10,4 @@ over a maximum of 30 hops:
   6    15 ms    13 ms    15 ms  142.251.48.211 
   7    16 ms    25 ms    12 ms  142.250.69.206 
 
-Trace complete.
+
