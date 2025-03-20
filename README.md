@@ -56,8 +56,8 @@ Simply run `tracertmap.ps1` and enter your address to trace. The map will open u
 ## Future Features
 
 - [ ] A side bar of IP addresses found in tracert
-- [ ] The ability to click on IP addresses to fly to location
-- [ ] collect device public IP and use as starting point. 
+- [x] The ability to click on IP addresses to fly to location
+- [x] collect device public IP and use as starting point. 
 - [ ] Show private vs Public IP's in the list of IP's found
 - [ ] Fix IP's that share a location stacking, show as list instead. 
 - [ ] Add hop numbers next to name on markers.   
